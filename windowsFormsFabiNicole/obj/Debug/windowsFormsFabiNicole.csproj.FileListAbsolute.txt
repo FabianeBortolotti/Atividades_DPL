@@ -1,0 +1,10 @@
+C:\Users\Aluno\source\repos\windowsFormsFabiNicole\bin\Debug\windowsFormsFabiNicole.exe.config
+C:\Users\Aluno\source\repos\windowsFormsFabiNicole\bin\Debug\windowsFormsFabiNicole.exe
+C:\Users\Aluno\source\repos\windowsFormsFabiNicole\bin\Debug\windowsFormsFabiNicole.pdb
+C:\Users\Aluno\source\repos\windowsFormsFabiNicole\obj\Debug\windowsFormsFabiNicole.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\windowsFormsFabiNicole\obj\Debug\windowsFormsFabiNicole.Form1.resources
+C:\Users\Aluno\source\repos\windowsFormsFabiNicole\obj\Debug\windowsFormsFabiNicole.Properties.Resources.resources
+C:\Users\Aluno\source\repos\windowsFormsFabiNicole\obj\Debug\windowsFormsFabiNicole.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\windowsFormsFabiNicole\obj\Debug\windowsFormsFabiNicole.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\windowsFormsFabiNicole\obj\Debug\windowsFormsFabiNicole.exe
+C:\Users\Aluno\source\repos\windowsFormsFabiNicole\obj\Debug\windowsFormsFabiNicole.pdb
